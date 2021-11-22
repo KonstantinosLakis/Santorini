@@ -2,7 +2,7 @@
 
 This is a Haskell implementation of the board game "Santorini", described here https://en.wikipedia.org/wiki/Santorini_(game)
 
-It was developed as final project for the course "Principles of Programming Languages" of the department of Informatics and
+It was developed as a final project for the course "Principles of Programming Languages" of the department of Informatics and
 Telecommunications at the National and Kapodistrian University of Athens. 
 
 # Setup Instructions for Linux
