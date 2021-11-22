@@ -5,6 +5,9 @@ This is a Haskell implementation of the board game "Santorini", described here h
 It was developed as a final project for the course "Principles of Programming Languages" of the department of Informatics and
 Telecommunications at the National and Kapodistrian University of Athens. 
 
+If you would like to try out the project, delete StudentCode.hs, rename cleanStudentCode.hs to StudentCode.hs and fill in the
+required functions.
+
 # Setup Instructions for Linux
 The graphics library gloss is necessary for the visualization to run. It can be installed using cabal. Also, the gloss library 
 (and therefore the project) relies on the openGL module, which should be installed in the system. Compilation is carried out 
