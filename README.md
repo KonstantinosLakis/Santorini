@@ -1,14 +1,27 @@
-# Santorini
+# Introduction 
 
-![Santorini photo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Santorini_board_game.jpg/1024px-Santorini_board_game.jpg)
-
-This is a Haskell implementation of the board game "Santorini", described here https://en.wikipedia.org/wiki/Santorini_(game)
+This is a Haskell implementation of the board game "Santorini", which is described below.
 
 It was developed as a final project for the course "Principles of Programming Languages" of the department of Informatics and
 Telecommunications at the National and Kapodistrian University of Athens. 
 
 If you would like to try out the project, delete StudentCode.hs, rename cleanStudentCode.hs to StudentCode.hs and fill in the
 required functions.
+
+# Santorini
+
+![Santorini photo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Santorini_board_game.jpg/1024px-Santorini_board_game.jpg)
+
+In the very beginning, each of the two players places their two pawns on the 5-by-5 board.
+
+Each turn of play involves moving one of your two pieces around the board and then placing a tile adjacent to the moved piece, building up that spot of the board. On subsequent turns, pieces may be moved onto one of these built-up tiles, but only one level up at a time. Pieces may also be moved down any number of levels. Players may also place a special dome tile on top of a three-level building, which prevents a player from moving onto that spot for the remainder of the game.
+
+The primary winning condition is to get one of your pieces onto the third level, though players may also win if their opponent is unable to make a move.
+
+More information about the game can be found in https://en.wikipedia.org/wiki/Santorini_(game).
+
+# The assignment's requirements
+An english version of the programming assignment details given to the student can be found in the repository. 
 
 # Setup Instructions for Linux
 The graphics library gloss is necessary for the visualization to run. It can be installed using cabal. Also, the gloss library 
