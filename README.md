@@ -21,7 +21,7 @@ The primary winning condition is to get one of your pieces onto the third level,
 More information about the game can be found in https://en.wikipedia.org/wiki/Santorini_(game).
 
 # The assignment's requirements
-An english version of the programming assignment details given to the student can be found in the repository. 
+An english version of the programming assignment details given to the student can be found in the file [Assignment.pdf](./Assignment.pdf)
 
 # Setup Instructions for Linux
 The graphics library gloss is necessary for the visualization to run. It can be installed using cabal. Also, the gloss library 
