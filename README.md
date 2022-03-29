@@ -5,7 +5,7 @@ This is a Haskell implementation of the board game "Santorini", which is describ
 It was developed as a final project for the course "Principles of Programming Languages" of the department of Informatics and
 Telecommunications at the National and Kapodistrian University of Athens. 
 
-If you would like to try out the project, delete StudentCode.hs, rename cleanStudentCode.hs to StudentCode.hs and fill in the
+If you would like to try and carry out the project, delete StudentCode.hs, rename cleanStudentCode.hs to StudentCode.hs and fill in the
 required functions.
 
 # Santorini
