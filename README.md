@@ -1,5 +1,7 @@
 # Santorini
 
+!(https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Santorini_board_game.jpg/1024px-Santorini_board_game.jpg)
+
 This is a Haskell implementation of the board game "Santorini", described here https://en.wikipedia.org/wiki/Santorini_(game)
 
 It was developed as a final project for the course "Principles of Programming Languages" of the department of Informatics and
